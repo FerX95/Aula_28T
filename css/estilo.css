@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    display: flex;
+    background-color: darkgray;
+}
+
+.box{
+    text-align: center;
+    font-size: 25px;
+    width: 250px;
+    line-height: 150px;
+    margin: 5px;
+}
+
+.brasil{
+    background-color: darkgreen;
+    color: white;
+}
